@@ -1,0 +1,4 @@
+interface:
+  display_name: "Commit API Doc"
+  short_description: "Draft compact API docs from recent git commits and diffs."
+  default_prompt: "Use $commit-api-doc to draft concise interface docs from recent commits in this repository."

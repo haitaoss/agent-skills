@@ -1,0 +1,4 @@
+interface:
+  display_name: "LRC MP3 Lyrics"
+  short_description: "Shift LRC, trim MP3 intros, sync embedded lyrics"
+  default_prompt: "Use $lrc-mp3-lyrics to shift LRC timestamps, trim matching MP3 audio when needed, remove stale awlrc blocks, and sync the result into MP3 lyric tags."
