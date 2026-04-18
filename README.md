@@ -18,13 +18,11 @@ Right now this repository contains Codex-format skills only:
 agent-skills/
   codex/
     skills/
-      commit-api-doc/
       lrc-mp3-lyrics/
 ```
 
 Included skills:
 
-- `commit-api-doc`: Generate compact Chinese API/interface documentation from code changes and commits.
 - `lrc-mp3-lyrics`: Shift `.lrc` timestamps, trim MP3 intros when needed, remove stale `awlrc` blocks, and sync embedded lyrics.
 
 ## Repository Layout

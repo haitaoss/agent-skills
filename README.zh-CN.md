@@ -21,13 +21,11 @@ English version: [README.md](README.md)
 agent-skills/
   codex/
     skills/
-      commit-api-doc/
       lrc-mp3-lyrics/
 ```
 
 当前已收录：
 
-- `commit-api-doc`：根据提交和代码变更生成紧凑的中文接口文档
 - `lrc-mp3-lyrics`：偏移 `.lrc`、按需裁剪 MP3 开头、清理旧 `awlrc`、同步内嵌歌词
 
 ## 目录约定
